@@ -9,4 +9,6 @@ Le but de ce projet est la découverte de la librairie SDL et non pas l'impléme
 L'ordinateur choisit *aléatoirement* une case vide pour terminer son tour !
 L'ajout de l'IA est toujours possible en implémentant l'algorithme A\* par exemple
 
-![screenshot](https://raw.githubusercontent.com/stoufa/tictactoe/master/screenshots/2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stoufa/tictactoe/master/screenshots/2.png" alt="screenshot"/>
+</p>
