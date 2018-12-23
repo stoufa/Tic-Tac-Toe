@@ -12,7 +12,7 @@ The addition of AI is always possible by implementing the A* algorithm for examp
 :fr: Jeu TicTacToe (X/O) en 2D développée à l'aide de la librairie SDL écrite en C
 ( Le code est commenté en Français )
 
-Le but de ce projet est la découverte de la librairie SDL et non pas l'implémentation de l'intelligence artificielle (IA)!  
+Le but de ce projet est la découverte de la librairie SDL et non pas l'implémentation de l'Intelligence Artificielle (IA)!  
 L'ordinateur choisit *aléatoirement* une case vide pour jouer son tour!  
 L'ajout de l'IA est toujours possible en implémentant l'algorithme A* par exemple.  
 
